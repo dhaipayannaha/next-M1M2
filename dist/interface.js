@@ -9,4 +9,7 @@ const user = {
 };
 const friends = ["A", "B", "C", "D"];
 console.log(friends);
+const addNumber = (num1, num2) => {
+    return num1 + num2;
+};
 //# sourceMappingURL=interface.js.map
